@@ -14,7 +14,7 @@
   </div>
   <div class="hello container">
     <div class="sub-container">
-      <h1>Hi {{userName}} , Welcome to Your Vue.js App</h1>
+      <h1>Hi {{userName}} , Welcome to Vue.js App</h1>
     </div>
   </div>
 </div>
