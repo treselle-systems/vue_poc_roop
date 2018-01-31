@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({
 })); // support encoded bodies
 
 
-
+/* enable the encode  */
 const encode = require('nodejs-base64-encode');
 
 app.use(function(req, res, next) {
